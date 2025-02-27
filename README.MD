@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Castro</h1>
-<h3 align="center">I'm a junior developer, student of systems engineering.</h3>
+<h3 align="center">I'm a semi-senior developer, student of systems engineering.</h3>
 
 - 🔭 I’m currently working on **an interactive blog with AI.**
 
